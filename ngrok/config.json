@@ -56,5 +56,5 @@
       }
     ]
   },
-  "image": "Papsnoek/{arch}-hassio-ngrok"
+  "image": "papsnoek/{arch}-hassio-ngrok"
 }

@@ -1,6 +1,6 @@
 {
   "name": "ngrok Client",
-  "version": "2.1.5",
+  "version": "latest",
   "slug": "ngrok",
   "description": "A ngrok client for Hass.io",
   "webui": "http://[HOST]:[PORT:4040]",
@@ -56,5 +56,5 @@
       }
     ]
   },
-  "image": "papsnoek/{arch}-hassio-ngrok"
+  "image": "thepicklenat0r/{arch}-hassio-ngrok"
 }
